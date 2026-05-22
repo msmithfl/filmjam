@@ -55,7 +55,7 @@ export default function App() {
           
           <div className="flex items-center gap-6">
             <button className="text-sm font-medium text-neutral-400 hover:text-white transition-colors">
-              Explore Jams
+              Explore Jamstest
             </button>
             
             {/* Clerk Sign-Out Controls */}
