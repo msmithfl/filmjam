@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/matt/Documents/WebDev/Filmjam/Filmjam.Api/Filmjam.Api.csproj": {}
+    "C:\\Users\\msmit\\csharp-dev\\Filmjam\\filmjam\\Filmjam.Api\\Filmjam.Api.csproj": {}
   },
   "projects": {
-    "/home/matt/Documents/WebDev/Filmjam/Filmjam.Api/Filmjam.Api.csproj": {
+    "C:\\Users\\msmit\\csharp-dev\\Filmjam\\filmjam\\Filmjam.Api\\Filmjam.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/matt/Documents/WebDev/Filmjam/Filmjam.Api/Filmjam.Api.csproj",
+        "projectUniqueName": "C:\\Users\\msmit\\csharp-dev\\Filmjam\\filmjam\\Filmjam.Api\\Filmjam.Api.csproj",
         "projectName": "Filmjam.Api",
-        "projectPath": "/home/matt/Documents/WebDev/Filmjam/Filmjam.Api/Filmjam.Api.csproj",
-        "packagesPath": "/home/matt/.nuget/packages/",
-        "outputPath": "/home/matt/Documents/WebDev/Filmjam/Filmjam.Api/obj/",
+        "projectPath": "C:\\Users\\msmit\\csharp-dev\\Filmjam\\filmjam\\Filmjam.Api\\Filmjam.Api.csproj",
+        "packagesPath": "C:\\Users\\msmit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msmit\\csharp-dev\\Filmjam\\filmjam\\Filmjam.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/matt/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\msmit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -90,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/matt/.dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

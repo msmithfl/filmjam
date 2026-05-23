@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Filmjam.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bab252e3652cea2cb9e1950ceea80d7298d96e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99d59852c42d0b9277765bfd19708ed402a3d704")]
 [assembly: System.Reflection.AssemblyProductAttribute("Filmjam.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Filmjam.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
