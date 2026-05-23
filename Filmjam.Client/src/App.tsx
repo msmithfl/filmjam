@@ -46,7 +46,7 @@ export default function App() {
     <div className="min-h-screen bg-neutral-950 text-neutral-100 font-sans selection:bg-red-500 selection:text-white">
       
       {/* Navigation Bar */}
-      <nav className="border-b border-neutral-800 bg-neutral-900/50 backdrop-blur-md sticky top-0 z-50">
+      <nav className="bg-neutral-900/50 backdrop-blur-md sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <span className="text-xl font-black tracking-tighter text-red-500 uppercase">FilmJam</span>
@@ -205,7 +205,7 @@ export default function App() {
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-neutral-900 bg-neutral-900/50 backdrop-blur-md py-8 mt-20">
+      <footer className="bg-neutral-900/50 backdrop-blur-md py-8 mt-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm text-neutral-500">
           &copy; 2024 FilmJam. All rights reserved. Built with ❤️ for indie filmmakers.
         </div>
